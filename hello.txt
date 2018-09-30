@@ -7,3 +7,5 @@ This is added in FeatureB
 
 This is another added in FeatureB
 
+This is a second added line in FeatureB
+

@@ -3,3 +3,10 @@ hello worldI am adding a line in master
 
 Hi new change
 
+This is added in FeatureB
+
+This is another added in FeatureB
+
+This is a second added line in FeatureB
+
+This is a third line in FeatureB
